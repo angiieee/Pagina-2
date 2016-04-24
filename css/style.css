@@ -1,0 +1,35 @@
+body img {
+  width: 100%;
+  position: absolute;
+  margin-top: -20px;
+  z-index: -1;
+}
+
+h1 {
+  padding-top: 100px;
+  margin-left: 470px;
+  color: white;
+  font-family: Glamor;
+}
+
+
+.btn {
+  margin-left: 400px;
+  margin-top: 50px;
+  width:300px;
+  height:100px;
+  background-color: white;
+  color: black;
+  font-family: Glamor;
+  font-size: 16pt;
+  text-align: center;
+}
+.btn:hover {
+  background-color: #f5b2d6;
+}
+
+.modal-content button {
+  margin-top: -20px;
+  margin-right: 20px;
+}
+
